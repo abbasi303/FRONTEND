@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "First nice title",
+      "text": "Some deep thoughts beyond imagination.",
+      "active": 1
+    },
+    {
+      "id": 2,
+      "title": "Sajtos makaroni",
+      "text": "Al dente, ricottás-vörösboros szarvasgomba mártással.",
+      "active": 1
+    },
+    {
+      "id": "03a",
+      "title": "Beatae suscipit.",
+      "text": "Ea ratione vel maxime molestias.",
+      "active": 1
+    },
+    {
+      "id": "ee5894ee-93dd-4974-9991-4086d9e0c35d",
+      "title": "Soluta aspernatur eum.",
+      "text": "Ea labore assumenda dignissimos culpa quod quam eligendi velit. Aut ex culpa eligendi. Quidem error labore minima porro. Qui nam exercitationem repellat. Placeat voluptatem ipsam eaque facere libero. Aspernatur provident temporibus at harum nihil in enim ea.",
+      "active": 1
+    },
+    {
+      "id": "62eb6552-61a8-4f78-93cf-8ddc9fe1a522",
+      "title": "Dolorum in similique.",
+      "text": "Dolorem nulla cumque atque nobis. Temporibus nobis enim nihil accusamus quod a. Temporibus eum magnam velit. Molestias qui placeat praesentium cupiditate earum.",
+      "active": 1
+    },
+    {
+      "id": "5a8cb7cc-0e39-46a2-9cbc-ac794e617d09",
+      "title": "Titolos",
+      "text": "Contentolos",
+      "active": 1
+    },
+    {
+      "id": "775920de-6091-4136-a00c-d309a4b2b408",
+      "title": "Dolore vel eum.",
+      "text": "Rerum eum debitis aspernatur ut assumenda saepe molestiae. Ea soluta occaecati totam maiores. Fugiat sapiente vitae enim illum quisquam atque. Maiores odit omnis eveniet in repellat enim illum dolor. Beatae similique veniam non veritatis magnam expedita.",
+      "active": 1
+    },
+    {
+      "id": "dc551fc2-c8b3-433c-8763-5fe1376fd2e2",
+      "title": "Praesentium quis magnam eaque quis.",
+      "text": "Eligendi doloribus minus. Fugit praesentium aut esse dolorum quaerat. Numquam molestiae quidem.",
+      "active": 1
+    }
+  ]
+}
